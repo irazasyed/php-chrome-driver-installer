@@ -1,0 +1,24 @@
+{
+    "name": "irazasyed/php-chrome-driver-installer",
+    "description": "PHP Chrome Driver Installer",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Irfaq Syed",
+            "email": "irazasyed@users.noreply.github.com"
+        }
+    ],
+    "homepage": "https://github.com/irazasyed/php-chrome-driver-installer",
+    "require": {
+        "php": ">=8.1",
+        "ext-zip": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+        "psr-4": {
+            "Irazasyed\\PHP\\": "src/"
+        }
+    }
+}
