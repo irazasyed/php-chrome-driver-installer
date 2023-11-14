@@ -1,0 +1,28 @@
+repo_name: irazasyed/php-chrome-driver-installer
+report_id: 8614e855994968ddb5b064bdee885afc
+repo_type: Public
+timestamp: '2023-11-14T06:25:46+00:00'
+requested_by: irazasyed
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
